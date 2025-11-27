@@ -7,3 +7,6 @@ const store = configureStore({
   },
   devtools: true,
 });
+
+
+export default store
